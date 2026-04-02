@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Emploi du temps</title>
+
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+        }
+
+        h2 {
+            margin-bottom: 5px;
+        }
+
+
+        table {
+            border-collapse: collapse;
+            width: 98%;
+            margin: auto;
+        }
+
+        th, td {
+            border: 1px solid rgb(17, 17, 17);
+            padding: 6px;
+            font-size: 13px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #e5e8d7;
+        }
+
+        .td {
+            color: rgb(253, 38, 38);
+            font-weight: bold;
+        }
+
+        .small {
+            font-size: 11px;
+        }
+    </style>
+</head>
+
+<body>
+ <img src="eee.jpg" alt="Logo FPO" width="300"><h2>Emploi du temps « Provisoire » - IAIL S2</h2>
+<p>Année Universitaire 2025-2026</p>
+
+<table>
+
+<tr>
+    <th></th>
+    <th>9h-10h30</th>
+    <th>10h30-12h</th>
+    <th>12h15-13h45</th>
+    <th>13h45-15h15</th>
+    <th>15h30-17h</th>
+    <th>17h-18h30</th>
+</tr>
+
+<tr>
+<th>Lundi</th>
+
+<td>
+Programmation Python 2<br>
+<span class="small">Cours - Amphi A</span><br>
+<span class="small">Prof M. Laarabi</span>
+</td>
+
+<td>
+Algorithmes et Programmation C2<br>
+<span class="small">Cours - Amphi A</span><br>
+<span class="small">Prof H. Oudani</span>
+</td>
+
+<td></td>
+
+<td>
+Algorithmes et C2<br>
+<span class="td">TD/TP Grp1 - Salle P2</span><br>
+<span class="small">Prof H. Oudani</span>
+</td>
+
+<td>
+Programmation Python 2<br>
+<span class="td">TD/TP Grp3 - Salle P2</span><br>
+<span class="small">Prof A. Elouardi</span>
+</td>
+
+<td>
+Programmation Python 2<br>
+<span class="td">TD/TP Grp2 - Salle P2</span><br>
+<span class="small">Prof A. Elouardi</span>
+</td>
+
+
+</tr>
+<tr>
+<th>Mardi</th>
+
+<td class="td">
+TD/TP Python Grp1<br>
+<span class="small">Salle P2</span><br>
+<span class="small">Prof A. Elouardi</span>
+</td>
+
+<td></td>
+
+<td>
+Digital Skills & Intelligence Artificielle<br>
+<span class="small">Cours - Amphi A</span><br>
+<span class="small">Prof A. Elouardi</span>
+</td>
+
+<td class="td">
+TD/TP IA - Amphi A<br>
+<span class="small">Prof A. Elouardi</span>
+</td>
+
+<td></td>
+<td></td>
+
+</tr>
+
+<tr>
+<th>Mercredi</th>
+
+<td></td>
+<td></td>
+<td></td>
+
+<td class="td">
+Algo C2 - Grp2 - Salle P2<br>
+<span class="small">Prof H. Oudani</span>
+</td>
+
+<td>
+Algèbre 2<br>
+<span class="small">TD - Amphi A</span><br>
+<span class="small">Prof I. Boutayamo</span>
+</td>
+
+<td>
+Analyse 2<br>
+<span class="small">TD - Amphi A</span><br>
+<span class="small">Prof A. Hadri</span>
+</td>
+
+</tr>
+
+<tr>
+<th>Jeudi</th>
+
+<td>
+Traitement du Signal<br>
+<span class="small">Cours - Amphi A</span><br>
+<span class="small">Prof H. Azzahhafi</span>
+</td>
+
+<td>
+Traitement du Signal<br>
+<span class="small">TD - Amphi A</span><br>
+<span class="small">Prof H. Azzahhafi</span>
+</td>
+
+<td colspan="4"></td>
+
+</tr>
+
+<tr>
+<th>Vendredi</th>
+
+<td>
+Algèbre 2<br>
+<span class="small">Cours - Amphi C</span><br>
+<span class="small">Prof I. Boutayamo</span>
+</td>
+
+<td>
+Analyse 2<br>
+<span class="small">Cours - Amphi C</span><br>
+<span class="small">Prof A. Hadri</span>
+</td>
+
+<td colspan="4"></td>
+
+</tr>
+
+<tr>
+<th>Samedi</th>
+
+<td colspan="3"></td>
+<td class="td">
+Programmation Web 1<br>
+TD/TP G2 - Salle P2<br>
+<span class="small">Prof A. Hakkem</span>
+</td>
+
+<td>
+Programmation Web 1<br>
+<span class="small">Cours - Salle P1</span><br>
+<span class="small">Prof K. Omari</span>
+</td>
+
+<td class="td">
+Programmation Web 1<br>
+TD/TP G1 - Salle P2<br>
+<span class="small">Prof K. Omari</span>
+</td>
+
+</tr>
+
+</table>
+</table>
+
+   <div style="position: absolute; top: 120px; left: 10px;">
+    <img src="sss.jpg" alt="Signature" width="200">
+</div>
+
+</body>
+</html>
